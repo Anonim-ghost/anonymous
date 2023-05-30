@@ -20,5 +20,5 @@ After running the code, enter the interface name
 When the Mac address changes, you will get the result as shown in the picture
 
 
-![Photo by Roman Synkevych on Unsplash](mactr2.JPG "GitHub") 
+![Photo by Roman Synkevych on Unsplash](mactr-2.JPG "GitHub") 
 
