@@ -9,7 +9,7 @@ sudo git clone https://github.com/Anonim-ghost/macTR.git
 # How to use
 Run the code in the directory where it is located
 ```
-sudo python3 MacTr.py
+sudo python3 MacTR.py
 ```
 After running the code, enter the interface name
 
